@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 /**
  * Servlet implementation class Authorize
  */
-@WebServlet("/Authorize")
+@WebServlet("/servlet1")
 public class Authorize extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
